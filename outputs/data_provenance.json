@@ -1,0 +1,9 @@
+{
+  "source_url": "https://raw.githubusercontent.com/leonism/sample-superstore/master/data/superstore.csv",
+  "local_path": "data/raw/superstore.csv",
+  "downloaded_this_run": false,
+  "size_bytes": 2304566,
+  "expected_sha256": "af443ca30d732c886f7a1d603f9492f98e9a88c268d47cbc146fe758b1f5d65d",
+  "actual_sha256": "af443ca30d732c886f7a1d603f9492f98e9a88c268d47cbc146fe758b1f5d65d",
+  "checksum_matches_expected": true
+}

@@ -1,0 +1,51 @@
+{
+  "kpis": {
+    "date_start": "2015-01-03",
+    "date_end": "2018-12-30",
+    "order_lines": 9994,
+    "orders": 5009,
+    "customers": 793,
+    "products": 1894,
+    "total_sales": 2297200.8603,
+    "total_profit": 286397.0217,
+    "total_quantity": 37873,
+    "aggregate_profit_margin": 0.12467217240315605,
+    "mean_row_margin": 0.12031392972104457,
+    "median_row_margin": 0.27,
+    "avg_order_value": 458.6146656618087,
+    "avg_discount": 0.1562027216329798,
+    "loss_making_lines": 1871,
+    "loss_making_line_share": 0.18721232739643787,
+    "possible_duplicate_lines": 1
+  },
+  "customer_stats": {
+    "customers": 793,
+    "top_10_customers_sales_share": 0.06695590779985745,
+    "top_20pct_customers_n": 159,
+    "top_20pct_customers_sales_share": 0.4814835068255874,
+    "median_orders_per_customer": 6.0,
+    "customers_with_2plus_orders_share": 0.9848675914249685,
+    "loss_making_customers": 155,
+    "loss_making_customer_share": 0.19546027742749053,
+    "total_loss_of_loss_making_customers": -71224.4744
+  },
+  "product_stats": {
+    "products": 1894,
+    "loss_making_products": 306,
+    "loss_making_product_share": 0.16156282998944033,
+    "total_loss_of_loss_making_products": -77092.0172,
+    "profit_of_profitable_products": 363489.03890000004
+  },
+  "discount_stats": {
+    "spearman_discount_vs_row_margin": -0.6451118901274137,
+    "first_band_with_negative_margin": ">20-30%",
+    "lines_with_discount": 5196,
+    "share_of_lines_with_discount": 0.519911947168301
+  },
+  "returns_stats": {
+    "orders": 5009,
+    "returned_orders": 296,
+    "overall_return_rate": 0.05909363146336594,
+    "share_of_sales_in_returned_orders": 0.07857574886874598
+  }
+}

@@ -1,0 +1,4 @@
+Segment,orders,returned_orders,return_rate,share_of_sales_in_returned_orders
+Corporate,1514,93,0.061427,0.073515
+Consumer,2586,154,0.059551,0.09074
+Home Office,909,49,0.053905,0.054013

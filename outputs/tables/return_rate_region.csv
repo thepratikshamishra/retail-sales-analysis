@@ -1,0 +1,5 @@
+Region,orders,returned_orders,return_rate,share_of_sales_in_returned_orders
+West,1611,189,0.117318,0.148159
+Central,1175,39,0.033191,0.027945
+East,1401,44,0.031406,0.061441
+South,822,24,0.029197,0.044187

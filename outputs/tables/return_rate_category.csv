@@ -1,0 +1,4 @@
+Category,orders,returned_orders,return_rate,share_of_sales_in_returned_orders
+Technology,1544,123,0.079663,0.086955
+Furniture,1764,136,0.077098,0.07981
+Office Supplies,3742,234,0.062533,0.067557

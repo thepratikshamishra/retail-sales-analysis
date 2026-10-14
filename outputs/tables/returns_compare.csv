@@ -1,0 +1,3 @@
+group,orders,sales,profit,profit_margin,avg_order_value,avg_lines_per_order,avg_discount
+Not returned,4713,2116696.5824,263164.6602,0.124328,449.118732,1.950774,0.158235
+Returned,296,180504.2779,23232.3615,0.128708,609.81175,2.702703,0.134152

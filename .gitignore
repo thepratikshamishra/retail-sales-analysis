@@ -1,0 +1,16 @@
+# Raw and processed data: redistribution terms of the dataset are unverified
+data/raw/
+data/processed/
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
